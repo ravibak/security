@@ -1,0 +1,4 @@
+  "AadClientId": "fac658af-9846-45b0-b89d-dcd8a26040c3",
+  "AadSecret": "99X8Q~UFGZsWAax5C0IB9-L.g9u_pNjotexdAb2H",
+  "AadTenantDomain": "fasttracklabs.onmicrosoft.com",
+  "AadTenantId": "6931411d-d626-4b49-b28e-ce547ccab074",
