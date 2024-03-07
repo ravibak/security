@@ -2,3 +2,5 @@
   "AadSecret": "9r18Q~vIzSlMLLcQTLs1t0VGoz-..W~xbrJN.c2q",
   "AadTenantDomain": "dev.techpass.gov.sg",
   "AadTenantId": "edf6f660-7319-45db-8531-fdbd46047921",
+
+Commit
