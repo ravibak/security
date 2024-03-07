@@ -1,4 +1,4 @@
-  "AadClientId": "fac658af-9846-45b0-b89d-dcd8a26040c3",
-  "AadSecret": "99X8Q~UFGZsWAax5C0IB9-L.g9u_pNjotexdAb2H",
-  "AadTenantDomain": "fasttracklabs.onmicrosoft.com",
-  "AadTenantId": "6931411d-d626-4b49-b28e-ce547ccab074",
+  "AadClientId": "5e4d7b66-dc9c-4fe7-b869-058e71dc1994",
+  "AadSecret": "w888Q~vH9TKhdDiFzSEmJ0wkCGu7TDca5QnHScT5",
+  "AadTenantDomain": "dev.techpass.gov.sg",
+  "AadTenantId": "edf6f660-7319-45db-8531-fdbd46047921",
