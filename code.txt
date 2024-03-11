@@ -1,6 +1,6 @@
-  "AadClientId": "a7755fac-4f58-44ba-81b4-933f81f82ec0",
-  "AadSecret": "9r18Q~vIzSlMLLcQTLs1t0VGoz-..W~xbrJN.c2q",
-  "AadTenantDomain": "dev.techpass.gov.sg",
-  "AadTenantId": "edf6f660-7319-45db-8531-fdbd46047921",
+  "AadClientId": "",
+  "AadSecret": "",
+  "AadTenantDomain": "",
+  "AadTenantId": "",
 
 Commit
